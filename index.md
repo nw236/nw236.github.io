@@ -3,4 +3,4 @@
 Welcome to this page.
    Nothing to see here. 
 
-More contecnt will be added later.
+More content will be added later.
