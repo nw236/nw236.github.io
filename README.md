@@ -8,3 +8,9 @@ Some useful information:
 Played with this tutorial, but did not all steps, so now there us nothing to be seen... will fix this.   
    http://jmcglone.com/guides/github-pages/
    
+   
+CSS tutorials:
+  https://www.w3schools.com/css/
+  
+  
+  
